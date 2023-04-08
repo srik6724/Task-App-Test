@@ -1,0 +1,23 @@
+.centerWord {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  font-family: "Times New Roman";
+}
+
+.centerTime {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  font-family: "Times New Roman";
+}
+
+.dueDate {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  font-family: "Times New Roman";
+}

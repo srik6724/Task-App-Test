@@ -1,0 +1,8 @@
+.surveyClass {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Cambria";
+  font-size: medium;
+}
